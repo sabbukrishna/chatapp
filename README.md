@@ -81,7 +81,7 @@ chatapp/
 
 | Login Screen | OTP Verification | Onboarding | Chat Screen |
 |--------------|------------------|------------|-------------|
-| ![Login](./screenshots/login.PNG) | ![OTP](./screenshots/otp.PNG) | ![Onboarding](./screenshots/onboarding.PMG) | ![Chat](./screenshots/chat.PNG) |
+| ![Login](./screenshots/login.PNG) | ![OTP](./screenshots/otp.PNG) | ![Onboarding](./screenshots/onboard.PMG) | ![Chat](./screenshots/chat.PNG) |
 
 ---
 
